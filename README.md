@@ -1,7 +1,7 @@
 # Hi, I'm Bhumika Kumari 👋  
 
 🎓 B.Tech Computer Science Engineering (Data Science & AI – IBM Collaboration)  
-📊 Aspiring Data Analyst | Data Analytics Enthusiast  
+📊 Aspiring Data Scientist | Data Scientist Enthusiast  
 
 ---
 
