@@ -15,12 +15,14 @@ I strongly believe in learning by doing and consistently working on small projec
 
 ---
 
-## Skills & Tools  
+## 🛠 Skills & Tools  
 
 - 📈 **Excel** (Data Cleaning, Pivot Tables, Charts, Data Analysis)  
 - 🗄️ **SQL** (Queries, Joins, Aggregations, Subqueries)  
-- 🧮 Data Analysis & Reporting  
-- 🧠 Problem Solving & Logical Thinking  
+- 🤖 **IBM Watson Studio** (Basic ML Models, Data Handling)  
+- 📊 **Data Analysis & Reporting**  
+- 🧠 **Problem Solving & Logical Thinking**  
+- 🎯 **Data Science & AI Analysis (Beginner Level)**  
 
 ---
 
@@ -28,7 +30,7 @@ I strongly believe in learning by doing and consistently working on small projec
 
 - Advanced Excel for data analysis  
 - SQL for analytics and reporting  
-- Building data analytics projects  
+- Building data scientist projects  
 - Working with real-world datasets and insights  
 
 ---
@@ -42,10 +44,10 @@ Projects will be added as I continue learning and building my portfolio.
 
 ## Goals  
 
-- Build a strong data analytics portfolio  
+- Build a strong data scientist portfolio  
 - Gain practical experience through projects  
 - Prepare for on-campus placement opportunities  
-- Continuously improve analytical and technical skills  
+- Continuously improve Aspiring Data Scientist and technical skills  
 
 ---
 
