@@ -17,12 +17,12 @@ I strongly believe in learning by doing and consistently working on small projec
 
 ## 🛠 Skills & Tools  
 
-- 📈 **Excel** (Data Cleaning, Pivot Tables, Charts, Data Analysis)  
-- 🗄️ **SQL** (Queries, Joins, Aggregations, Subqueries)  
-- 🤖 **IBM Watson Studio** (Basic ML Models, Data Handling)  
-- 📊 **Data Analysis & Reporting**  
-- 🧠 **Problem Solving & Logical Thinking**  
-- 🎯 **Data Science & AI Analysis (Beginner Level)**  
+-  **Excel** (Data Cleaning, Pivot Tables, Charts, Data Analysis)  
+-  **SQL** (Queries, Joins, Aggregations, Subqueries)  
+-  **IBM Watson Studio** (Basic ML Models, Data Handling)  
+-  **Data Analysis & Reporting**  
+-  **Problem Solving & Logical Thinking**  
+-  **Data Science & AI Analysis (Beginner Level)**  
 
 ---
 
